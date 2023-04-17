@@ -1,2 +1,2 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<h1>Hugo "Hrafven" Bidois</h1>
+<p>Visit my <a href="https://www.linkedin.com/in/hugo-bidois-hrafven/">LinkedIn</a> profile.</p>
