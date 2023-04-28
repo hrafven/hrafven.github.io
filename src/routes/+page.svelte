@@ -77,7 +77,8 @@
 		background-color: #242425;
 		color: white;
 	}
-	input {
+	input,
+	textarea {
 		color: black;
 	}
 </style>
