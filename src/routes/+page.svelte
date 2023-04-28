@@ -40,15 +40,20 @@
 
 	<main class="h-screen md:container md:mx-auto">
 		<section class="flex flex-col justify-center items-center h-full">
-			<form action="POST" class="w-3/4 max-w-sm text-2xl">
+			<form
+				enctype="application/json"
+				action="https://hrafven-contact.deno.dev/"
+				method="post"
+				class="w-3/4 max-w-sm text-2xl"
+			>
 				<fieldset class="flex flex-col gap-5 justify-around py-5">
 					<legend><h2>Contact Me</h2></legend>
 					<label class="block" for="emailaddr">
 						<span class="block text-sm font-medium">Email Address</span>
 						<input
 							type="text"
-							id="emailaddr"
-							name="emailaddr"
+							id="email"
+							name="email"
 							class="block py-2 px-3 mt-1 w-full text-sm bg-white rounded-md border shadow-sm focus:ring-1 focus:outline-none disabled:shadow-none border-slate-300 placeholder-slate-400 invalid:border-pink-500 invalid:text-pink-600 focus:border-sky-500 focus:ring-sky-500 focus:invalid:border-pink-500 focus:invalid:ring-pink-500 disabled:bg-slate-50 disabled:text-slate-500 disabled:border-slate-200"
 						/>
 					</label>
