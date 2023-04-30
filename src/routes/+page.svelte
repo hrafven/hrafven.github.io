@@ -3,7 +3,7 @@
 
 	function scrollBottom() {
 		window.scroll({ top: 9999, left: 0, behavior: 'smooth' });
-		document.getElementById('emailaddr')?.focus({ preventScroll: true });
+		document.getElementById('email')?.focus({ preventScroll: true });
 	}
 </script>
 
