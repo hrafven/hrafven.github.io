@@ -49,7 +49,7 @@
 			>
 				<fieldset class="flex flex-col gap-5 justify-around py-5">
 					<legend><h2>Contact Me</h2></legend>
-					<label class="block" for="emailaddr">
+					<label class="block" for="email">
 						<span class="block text-sm font-medium">Email Address</span>
 						<input
 							type="text"
