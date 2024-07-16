@@ -10,17 +10,17 @@
 <div class="overflow-visible">
 	<header class="h-screen md:container md:mx-auto">
 		<section class="flex flex-col justify-center items-center h-full">
-			<div class="flex flex-col gap-5 justify-center items-center w-3/4 max-w-sm h-1/2">
+			<div class="flex flex-col gap-5 justify-center items-center w-3/4 max-w-sm h-1/2 md:w-11/12 md:max-w-md">
 				<a class="flex flex-col items-center" href="/">
 					<img src="https://avatars.githubusercontent.com/u/15106129" alt="" />
-					<h1 class="text-3xl font-bold underline">
+					<h1 class="text-3xl font-bold underline text-center">
 						Hugo <span class="font-thin">"hrafven"</span> Bidois
 					</h1>
 				</a>
 				<section>
-					<p>Salesforce CRM Technical Consultant at iCom by KPMG</p>
+					<p class="text-center">Salesforce CRM Technical Consultant at iCom by KPMG</p>
 				</section>
-				<section class="flex justify-between items-center w-5/6 text-2xl">
+				<section class="flex justify-center gap-5 items-center w-5/6 text-2xl">
 					<a href="https://www.linkedin.com/in/hugo-bidois-hrafven/">
 						<Icon icon="line-md:linkedin" />
 					</a>
