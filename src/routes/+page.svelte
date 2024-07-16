@@ -10,7 +10,7 @@
 <div class="overflow-visible">
 	<header class="h-screen md:container md:mx-auto">
 		<section class="flex flex-col justify-center items-center h-full">
-			<div class="flex flex-col gap-5 justify-center items-center w-3/4 max-w-sm h-1/2 md:w-11/12 md:max-w-md">
+			<div class="flex flex-col gap-5 justify-center items-center w-3/4 max-w-sm h-1/2 sm:w-11/12 sm:max-w-md">
 				<a class="flex flex-col items-center" href="/">
 					<img src="https://avatars.githubusercontent.com/u/15106129" alt="" />
 					<h1 class="text-3xl font-bold underline text-center">
