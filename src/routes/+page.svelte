@@ -18,7 +18,7 @@
 					</h1>
 				</a>
 				<section>
-					<p>Salesforce CRM Consultant at iCom Cloud</p>
+					<p>Salesforce CRM Technical Consultant at iCom by KPMG</p>
 				</section>
 				<section class="flex justify-between items-center w-5/6 text-2xl">
 					<a href="https://www.linkedin.com/in/hugo-bidois-hrafven/">
