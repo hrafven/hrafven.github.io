@@ -25,7 +25,7 @@
 						<Icon icon="line-md:linkedin" />
 					</a>
 					<button
-						class="px-3 align-middle rounded-full bg-sky-500 hover:bg-sky-700"
+						class="px-3 align-middle rounded-full bg-sky-500 hover:bg-sky-700 cursor-pointer"
 						on:click={scrollBottom}
 					>
 						Contact Me
