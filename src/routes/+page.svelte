@@ -67,12 +67,12 @@
 							name="message"
 							required
 							class="block py-2 px-3 mt-1 w-full text-sm bg-white rounded-md border shadow-sm focus:ring-1 focus:outline-none disabled:shadow-none border-slate-300 placeholder-slate-400 invalid:border-pink-500 invalid:text-pink-600 focus:border-sky-500 focus:ring-sky-500 focus:invalid:border-pink-500 focus:invalid:ring-pink-500 disabled:bg-slate-50 disabled:text-slate-500 disabled:border-slate-200"
-						/>
+						></textarea>
 					</label>
 					<button class="px-3 align-middle rounded-full bg-sky-500 hover:bg-sky-700"> Send </button>
 				</fieldset>
 			</form>
-			<iframe title="formresponse" name="formresponse" style="color:white;text-align:center" />
+			<iframe title="formresponse" name="formresponse" style="color:white;text-align:center" ></iframe>
 		</section>
 	</main>
 </div>
